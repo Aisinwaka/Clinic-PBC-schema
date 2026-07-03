@@ -1,1 +1,0 @@
-# Clinic-PBC-schema
